@@ -1,5 +1,4 @@
-# 💫 <h1 align="center">Hi 👋, I'm
-Sodoo</h1>
+<h1 align="center">Hi 👋, I'm Sodoo</h1>
 <h3 align="center">A passionate Fullstack developer from Ulaanbaatar Mongolia 🇲🇳</h3><br><br>📚 Just Graduated Pinecone Academy<br><br>🌱 I am currently in the race Software Design and Development<br><br>📫 How to reach me sodoo75@gmail.com
 
 
