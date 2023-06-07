@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sodoo</h1>
-<h3 align="center">A passionate Fullstack developer from Ulaanbaatar Mongolia 🇲🇳</h3><br><br>📚 Just Graduated Pinecone Academy<br><br>🌱 I am currently in the race Software Design and Development<br><br>📫 How to reach me sodoo75@gmail.com
+<h3 align="center">A passionate Fullstack developer from Ulaanbaatar Mongolia 🇲🇳</h3>
 
+- 📚 I am currently working at [Personal Ecommerce Project](https://sodoo.site/)
+
+- 🌱 I am currently in the race **Software Design and Development**
+
+- 🏙 Creator of the [sodoo.site](https://sodoo.site) ecommerce
+
+- 📫 How to reach me **sodoo75@gmail.com**
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
